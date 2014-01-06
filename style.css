@@ -1,0 +1,81 @@
+.channel {
+	width: 250px;
+	height: 550px;
+	background-color: #920000;
+	float:left;
+	margin: 10px;
+}
+
+.ch_desc {
+	font-family: monospace;
+	/*text-align: center;*/
+	margin: auto;
+	font-size: 8px;
+	line-height: 100%;
+	/*font-weight: bold;*/
+	color: red;
+	margin-bottom: 20px;
+	height: 100px;
+}
+
+#guit_desc {
+	width: 245px;
+	font-size: 9px;
+}
+
+#bass_desc {
+	width: 200px;
+	font-size: 10px;
+}
+
+#vox_desc {
+	width: 100px;
+	font-size: 9px;
+	letter-spacing: -1px;
+
+}
+
+#fx_desc {
+	width: 200px;
+	font-size: 5px;
+}
+
+#perc_desc {
+	width: 175px;
+	font-size: 5px;
+}
+
+.track {
+	width: 175px;
+	height: 175px;
+	background-color: red;
+	margin: 20px auto;
+	opacity: 0.5;
+}
+
+.track:active {
+	opacity: 1;
+}
+
+/*
+#ctrl {
+	width: 250px;
+	height: 50px;
+	background-color: #B60101;
+	margin: 10px 550px;
+	opacity: 1;
+}
+
+#ctrl:active {
+	opacity: 0.5;
+}
+*/
+
+#bg {
+	margin-top: 20px;
+}
+
+body {
+	background-color: black;
+	margin: 0 auto;
+}
