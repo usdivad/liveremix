@@ -1,3 +1,10 @@
+/**
+David Su 2014
+
+under the veil
+
+**/
+
 //iv
 var context = new window.AudioContext();
 
