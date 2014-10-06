@@ -18,6 +18,13 @@
 	height: 100px;
 }
 
+.opening {
+	margin-left: 10px;
+	margin-top: 10px;
+	font-family:monospace;
+	color: red;
+}
+
 #guit_desc {
 	width: 245px;
 	font-size: 9px;
